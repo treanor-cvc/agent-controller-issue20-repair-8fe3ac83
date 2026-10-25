@@ -1,2 +1,2 @@
 def square(value: int) -> int:
-    return 0
+    return value * value
