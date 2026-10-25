@@ -1,2 +1,2 @@
 def absolute(value: int) -> int:
-    return 0
+    return -value if value < 0 else value
